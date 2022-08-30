@@ -52,10 +52,12 @@ section p{
 }
 .container2{
     color: white;
+    box-shadow: inset 0px 0px 10px 2px rgba(0, 0, 0, 0.589);
 }
 .container2 p{
     display: inline-block;
-    background-color: rgba(0, 0, 0, 0.445);
+    background-color: rgba(0, 0, 0, 0.521);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.74);
 }
 .container2#foto1{
     background-image: url(./Material/background001.jpg);
